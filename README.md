@@ -2,5 +2,5 @@
 
 --> This is a test repo created in GitHub
 
---> Second conflict
+--> New line for conflict
 
